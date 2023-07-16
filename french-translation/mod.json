@@ -1,0 +1,30 @@
+{	
+	"name" : "French translation",
+	"description" : "French translation of Heroes of Might and Magic III: Complete Edition",
+	"version" : "1.0.0",
+	"author" : "",
+	"contact" : "https://github.com/vcmi-mods/french-translation",
+	"modType" : "Translation",
+	"language" : "french",
+	"compatibility" :
+	{
+		"min" : "1.2.0"
+	},
+	"changelog" : 
+	{ 
+		"1.0.0" : [ "Initial release with resources from official french GOG version" ]
+	},
+	"french" : {
+		"name" : "Traduction en français",
+		"description" : "Traduction française de Heroes of Might and Magic III: Complete Edition"	
+	},
+	"german" : {
+		"name" : "Französische Übersetzung",
+		"description" : "Französische Übersetzung von Heroes of Might and Magic III: Complete Edition"	
+	},
+	"translations" : [
+		"config/vcmi-french/game.json",
+		"config/vcmi-french/maps.json",
+		"config/vcmi-french/campaigns.json"
+	]
+}
